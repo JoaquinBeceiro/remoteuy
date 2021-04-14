@@ -194,7 +194,7 @@ export default [
     },
   },
   {
-    picture: "https://www.infuy.com/images/infuy.svg",
+    picture: "https://www.infuy.com/wp-content/themes/infuy/images/logo-c.svg",
     url: "https://www.infuy.com/",
     name: "INFUY",
     description: "Your challenges. Our innovative solutions.",
